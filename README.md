@@ -56,3 +56,5 @@ bokeh serve --show world_obesity.ipynb
 ## Step 4 : Browse the interactive map
 
 The interactive map is rendered by bokeh server which can be browsed at `http://localhost:5006/`
+
+[![Run on Repl.it](https://repl.it/badge/github/CrazyDaffodils/Interactive-Choropleth-Map-Using-Python)](https://repl.it/github/CrazyDaffodils/Interactive-Choropleth-Map-Using-Python)
